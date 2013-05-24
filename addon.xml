@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.teamstream"
-       name="Teamstream.to"
+       name="TV Streams"
        version="0.4.0"
        provider-name="siriuz">
   <requires>
@@ -13,15 +13,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
-    <summary>Live-TV powered by Teamstream.to</summary>
-    <description>
-Kurzanleitung für die Benutzung des teamstream.to XBMC plugin:
---------------------------------------------------------------------------------
-* Besorge dir einen invite für www.teamstream.to
-* Kaufe dir einen Elite Zugang
-* Folge den Installationsanweisungen im Wiki: https://github.com/siriuzwhite/plugin.video.teamstream/wiki
-* Gib deinen Benutzernamen und dein Passwort in den Plugin Einstellungen ein.
-* Viel Spaß beim Sky schauen ;)
-    </description>
+    <summary>Live-TV</summary>
+    <description>Live-TV</description>
   </extension>
 </addon>
